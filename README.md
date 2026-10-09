@@ -320,7 +320,6 @@ soup train
 ```
 
 * **Alpamys Makazhan** — *Guild Leader & Architecture Sorcerer* ([@MakazhanAlpamys](https://github.com/MakazhanAlpamys))
-* **Sanzhar Hilrein** — *Systems Overclocking & Web Alchemist* ([@Hilrein](https://github.com/Hilrein))
 * **Rafik Mamedov** — *Benchmark Sage & Model Evaluator*
 
 ---
